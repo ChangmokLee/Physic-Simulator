@@ -6,6 +6,8 @@ The Physics Simulator is a Java-based application that demonstrates the principl
 
 I developed this software to gain a practical understanding of Java's object-oriented capabilities, its graphics libraries, and to learn how to model real-world phenomena like physics in a digital environment.
 
+[Software Demo Video](http://youtube.link.goes.here)
+
 # Development Environment
 
 The software was developed using the Visual Studio Code IDE. Java was the main language used for the entire development. I utilized the javax.swing and java.awt libraries for creating the user interface and the graphics, respectively. 
